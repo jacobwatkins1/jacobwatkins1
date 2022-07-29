@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacobwatkins1
-- 👀 I’m interested in quantum computing, mathematics, and physics!
-- 🌱 I’m currently learning quantum error correction.
+- 👀 I’m interested in mathematical physics, quantum information, and evidence-based teaching/learning practices!
+- 🌱 I’m currently learning polynomial interpolation.
 - 💞️ I’m looking to collaborate on a comprehensive solutions manual for Nielsen and Chuang, making it easier for independent students to learn about quantum computing!
 - 📫 How to reach me: Send me an email! watki243@msu.edu
 
